@@ -1,0 +1,16 @@
+{
+  "name": "notes_cli",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^10.1.0",
+    "yargs": "^17.7.2"
+  }
+}
